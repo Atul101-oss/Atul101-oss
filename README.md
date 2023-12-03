@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 Note: Willing to work on open-source projects of Computer Vision/ ML.
 
 ![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Atul101-oss&show_icons=true&theme=radical)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul101-oss&layout=compact&theme=radical)](https://github.com/Bijay555/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul101-oss&layout=compact&theme=radical)](https://github.com/Atul101-oss/github-readme-stats)
 
 <!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay555)](https://github.com/Bijay555/github-readme-stats)
