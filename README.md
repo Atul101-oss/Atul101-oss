@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="banner.png" alt="Atul Arya Banner" width="100%" />
-
-  <br/>
-
   # Hey there! I'm **Atul Arya** 👋
 
   ### 🚀 Full Stack Developer · AI/ML Explorer · Open Source Enthusiast
