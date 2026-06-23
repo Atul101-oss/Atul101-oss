@@ -62,7 +62,6 @@ fun_fact: "I build bots that make life easier and AI that sees the world!"
 
   ### Frameworks & Tools
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -116,7 +115,8 @@ fun_fact: "I build bots that make life easier and AI that sees the world!"
         <p align="center">A modern, responsive personal portfolio website showcasing my projects and skills, built with <b>TypeScript</b> and modern web technologies.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🚧_IN_PROGRESS-FF6B35?style=flat-square" alt="In Progress"/>
         </p>
       </td>
       <td width="50%">
